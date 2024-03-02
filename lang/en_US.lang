@@ -1,0 +1,3 @@
+option.SHADOW_FILTER=Shadow Filter
+value.SHADOW_FILTER.0.4f=Normal
+value.SHADOW_FILTER.0.0f=None
